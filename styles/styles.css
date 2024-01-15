@@ -1,0 +1,30 @@
+.header {
+    font-family: "Trebuchet MS", Impact, sans-serif;
+    font-size: 80px;
+    color: rgb(115, 175, 87);
+    background-color: whitesmoke;
+}
+
+.recipe-link {
+    font-family: Impact, "Times New Roman", sans-serif;
+    font-size: 36px;
+    color: rgb(38, 40, 41);
+    background-color: blanchedalmond;
+}
+
+#dessert {
+    background-color: aqua;
+}
+
+.recipe-title, 
+.recipe-header {
+    font-family: Impact, "Times New Roman", sans-serif;
+    font-size: 28px;
+    color: rgb(86, 86, 155);
+    background-color: antiquewhite;
+}
+
+.center {
+    text-align: center;
+    font-size: 48px;
+}
